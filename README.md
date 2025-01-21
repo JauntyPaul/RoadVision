@@ -37,4 +37,6 @@
 
 - The YOLOv8 Small model achieved **high detection accuracy** for various traffic signs, including stop signs, speed limits, and warning symbols.  
 - Demonstrated **real-time processing** of video frames with minimal latency, ensuring compatibility with autonomous vehicle decision-making systems.  
-- Final outputs included annotated **.avi files**, showcasing effective detection in diverse conditions.  
+- Final outputs included annotated **.avi files**, showcasing effective detection in diverse conditions.
+
+![result](https://github.com/user-attachments/assets/05790471-65fd-45ef-9020-f26b6b7299cd)
